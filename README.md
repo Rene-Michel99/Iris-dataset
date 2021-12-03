@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # Iris-dataset
 Projeto de machine learning com o dataset iris utilizando os algoritmos Naive Bayes, KNN, Árvores de decisão, Random Forest e SVM.
 
